@@ -10,7 +10,8 @@
 
 ## Contact With Me:
 
-https://contact-with-me.vercel.app/ 
+ <a href="https://contact-with-me.vercel.app/" target="_blank">Toca Aqui!</a>
+
 
 ## Languages and Tools:
 
