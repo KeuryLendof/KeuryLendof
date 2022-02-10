@@ -27,7 +27,8 @@
 
 <br>
 
-<a href="https://github.com/KeuryLendof/KeuryLendof">
+<p align="center">
+  <a href="https://github.com/KeuryLendof/KeuryLendof">
 <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=KeuryLendof&&show_icons=true&title_color=EDF2F4&icon_color=EF233C&text_color=8D99AE&bg_color=2B2D42">
 </a>
 <a href="https://github.com/KeuryLendof/KeuryLendof">
@@ -36,4 +37,6 @@
 <a href="https://github.com/KeuryLendof/KeuryLendof">
   <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KeuryLendof&theme=material-palenight" />
 </a>
+</p>
+
 
